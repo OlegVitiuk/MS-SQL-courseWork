@@ -1,0 +1,15 @@
+E:\kpi\SQL\course\course\course\bin\Debug\course.exe.config
+E:\kpi\SQL\course\course\course\obj\Debug\course.Properties.Resources.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.csproj.GenerateResource.Cache
+E:\kpi\SQL\course\course\course\bin\Debug\course.exe
+E:\kpi\SQL\course\course\course\bin\Debug\course.pdb
+E:\kpi\SQL\course\course\course\obj\Debug\course.exe
+E:\kpi\SQL\course\course\course\obj\Debug\course.pdb
+E:\kpi\SQL\course\course\course\obj\Debug\course.Main.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.authority.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.appeal.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.authorityAnswer.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.deputAnswer.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.deputs.resources
+E:\kpi\SQL\course\course\course\obj\Debug\course.csprojResolveAssemblyReference.cache
+E:\kpi\SQL\course\course\course\obj\Debug\course.group.resources
